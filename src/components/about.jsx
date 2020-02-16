@@ -53,7 +53,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Software Development</h3>
-                    <p>I also have extensive knowledge in Android app development in Java, as well is developing in C languages</p>
+                    <p>I have extensive knowledge in Android app development in Java, as well as developing in C</p>
                 </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Computer and Network Security</h3>
-                    <p>I experience with ethical hacking techniques such as pen-testing, XSS exploits, SQL injection.</p>
+                    <p>I have experience with cryptography algorithms, XSS exploits and SQL injection.</p>
                 </div>
                 </div>
             </div>
