@@ -14,10 +14,10 @@ export default class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                        Who am I? I'm Andrew, your average Melbournian. Currently I'm majoring computer and network security.
-                        I've also worked in the I.T industry part-time/casual as tech support for a while now, so I do have a bit experience under my
-                        belt. When I'm not at the desk, I'm usually out exploring a new cafe or trying out new burger joints (p.s. I also run
-                        a burger blog as a hobby). My other hobbies also include working on cars and playing basketball!
+                        Who am I? I'm Andrew, your average Melbournian. I'm currenty a uni student majoring Computer and Network Security, Banking and Finance. 
+                        I've also worked in the I.T industry part-time/casual as a computer technician for a while now. I also do small projects on the side every now and then. 
+                        When I'm not at the desk, I'm usually out exploring a new cafe or trying out new burger joints (p.s. I also run
+                        a burger blog as a hobby shameless plug: <a href="https://medium.com/@melbourneburgers">Melbourne Burger Blog</a>). My other hobbies also include working on cars and playing basketball!
                     </p>
                     </div>
                 </div>
