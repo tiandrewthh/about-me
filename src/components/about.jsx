@@ -53,7 +53,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Software Development</h3>
-                    <p>I have extensive knowledge in Android app development in Java, as well as developing in C</p>
+                    <p>I have extensive knowledge in Android app development in Java, as well as developing in C and C++</p>
                 </div>
                 </div>
             </div>
