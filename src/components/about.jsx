@@ -14,8 +14,8 @@ export default class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                        Who am I? I'm Andrew, your average Melbournian. I'm currenty a uni student majoring Computer and Network Security, Banking and Finance. 
-                        I've also worked in the I.T industry part-time/casual as a computer technician for a while now. I also do small projects on the side every now and then. 
+                        Who am I? I'm Andrew, just your average Melbournian. Currently, I'm an IT student majoring in Computer and Network Security as well as Banking and Finance. 
+                        I have also worked in the I.T industry part-time as a computer technician for a while now. I also do small projects on the side every now and then. 
                         When I'm not at the desk, I'm usually out exploring a new cafe or trying out new burger joints (p.s. I also run
                         a burger blog as a hobby shameless plug: <a href="https://medium.com/@melbourneburgers">Melbourne Burger Blog</a>). My other hobbies also include working on cars and playing basketball!
                     </p>
@@ -42,7 +42,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have some experience in building websites and chrome extentions using JavaScript, React, HTML, CSS</p>
+                    <p>I have some experience in building websites and apps using JavaScript, React, HTML, CSS</p>
                 </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Software Development</h3>
-                    <p>I have extensive knowledge in Android app development in Java, as well as developing in C and C++</p>
+                    <p>I also have experience in Android app development in Java, as well as C and C++</p>
                 </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Computer and Network Security</h3>
-                    <p>I have experience with cryptography algorithms, XSS exploits and SQL injection.</p>
+                    <p>I am knowledgeable in cryptography algorithms, XSS exploits and SQL injection.</p>
                 </div>
                 </div>
             </div>
